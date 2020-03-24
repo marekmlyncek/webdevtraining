@@ -1,0 +1,15 @@
+/*****************************TAG SELECTORS*****************************/
+
+h1{
+    color: red;
+}
+
+/*****************************CLASS SELECTORS*****************************/
+
+.bacon{
+    background-color: green;
+}
+
+.broccoli{
+    background-color: red;
+}

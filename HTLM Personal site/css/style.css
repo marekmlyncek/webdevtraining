@@ -1,0 +1,17 @@
+body{
+    background-color: #eeeeee
+}
+hr{
+    border-color: #222831;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+}
+h1,h2,h3{
+    color: #393e46;
+}
+
+h1{
+    text-transform: uppercase;
+}
